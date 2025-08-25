@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af96be-3045-4a09-b9ad-fc7271a7735a" name="更改" comment="清空" />
+    <list default="true" id="03af96be-3045-4a09-b9ad-fc7271a7735a" name="更改" comment="更新readme">
+      <change afterPath="$PROJECT_DIR$/raw/samples/freeze_full.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,23 +17,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ASLP-lab"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ASLP-lab&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ASLP-lab/osum-echat.github.io.git",
-    "accountId": "4ac3ccf5-373d-443c-bef5-72a44ccbd15f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ASLP-lab/osum-echat.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;4ac3ccf5-373d-443c-bef5-72a44ccbd15f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="31lgilQpM7cWqnbIipo1Drpx4GP" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -40,17 +44,18 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/gxl_workspace_2/osum-echat.github.io"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/gxl_workspace_2/osum-echat.github.io/raw/samples"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gxl_workspace_2\osum-echat.github.io\raw\samples" />
       <recent name="D:\gxl_workspace_2\osum-echat.github.io" />
       <recent name="D:\gxl_workspace_2\osum-echat.github.io\raw\fig" />
-      <recent name="D:\gxl_workspace_2\osum-echat.github.io\raw\samples" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gxl_workspace_2\osum-echat.github.io\raw\samples" />
       <recent name="D:\gxl_workspace_2\osum-echat.github.io" />
     </key>
   </component>
@@ -102,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756109904993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新readme">
+      <option name="closed" value="true" />
+      <created>1756113180137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756113180137</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +133,7 @@
     <MESSAGE value="清空上个版本的网页代码" />
     <MESSAGE value="更新新版本网页" />
     <MESSAGE value="清空" />
-    <option name="LAST_COMMIT_MESSAGE" value="清空" />
+    <MESSAGE value="更新readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新readme" />
   </component>
 </project>
