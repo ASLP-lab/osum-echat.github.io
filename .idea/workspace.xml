@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af96be-3045-4a09-b9ad-fc7271a7735a" name="更改" comment="add link for aslp website">
-      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+    <list default="true" id="03af96be-3045-4a09-b9ad-fc7271a7735a" name="更改" comment="Add the navigation bar.">
+      <change afterPath="$PROJECT_DIR$/raw/fig/table5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/gxl_workspace_2/osum-echat.github.io"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gxl_workspace_2/osum-echat.github.io&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\gxl_workspace_2\osum-echat.github.io" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756295436159</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add the navigation bar.">
+      <option name="closed" value="true" />
+      <created>1756303008173</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756303008173</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +178,7 @@
     <MESSAGE value="加入实时对话demo" />
     <MESSAGE value="Page optimization" />
     <MESSAGE value="add link for aslp website" />
-    <option name="LAST_COMMIT_MESSAGE" value="add link for aslp website" />
+    <MESSAGE value="Add the navigation bar." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add the navigation bar." />
   </component>
 </project>
